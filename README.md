@@ -31,5 +31,4 @@
 - Maven
 ## Implantação em produção
 - Back end: Heroku
-- Front end web: Netlify
 - Banco de dados: Postgresql
